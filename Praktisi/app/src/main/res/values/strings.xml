@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Praktisi</string>
+    <string name="profile">Profile</string>
+    <string name="denison_ilham_nasywa_hidayat">Denison Ilham Nasywa Hidayat</string>
+    <string name="alamat_e_mail">Alamat E-mail</string>
+    <string name="denilham_student_uns_ac_id">denilham@student.uns.ac.id</string>
+    <string name="prodi">Prodi</string>
+    <string name="d3_teknik_informatika">D3 Teknik Informatika</string>
+    <string name="alamat">Alamat</string>
+    <string name="sukoharjo_jawatengah_indonesia">Sukoharjo, JawaTengah, Indonesia</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="sukoharjo">Sukoharjo</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="_14_januari_2003">14 Januari 2003</string>
+    <string name="todo">TODO</string>
+    <string name="todobg">TODO</string>
+</resources>
